@@ -1260,7 +1260,7 @@ window['__params__'] = _=>{var t=location.href.replace(location.origin,'').repla
                                                     method: 'GET',
                                                     mode: 'cors',
                                                     headers: {
-                                                        Authorization: 'token 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',
+                                                        Authorization: 'token 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',
                                                     },
                                                 }
 
