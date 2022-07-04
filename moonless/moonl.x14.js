@@ -26,7 +26,7 @@ window['__params__'] = _=>{var t=location.pathname.replace(/^\/|\/$/g,'');if(!t)
         method: 'GET',
         mode: 'cors',
         headers: {
-            Authorization: 'token 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',
+            Authorization: 'token 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',
         },
     }
 
